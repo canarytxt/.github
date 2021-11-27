@@ -1,1 +1,1 @@
-# security.txt
+# canary.txt
